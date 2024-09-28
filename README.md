@@ -1,6 +1,6 @@
-## Hi there 👋
+#### Hi there 👋
 
-### I'm Mohammed Nabeel K
+## I'm Mohammed Nabeel K
 
 
 ## 🌐 Socials:
