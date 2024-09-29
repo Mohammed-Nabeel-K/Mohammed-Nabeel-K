@@ -1,6 +1,7 @@
-#### Hi there 👋
+## Hi there 👋  I'm Mohammed Nabeel K
 
-## I'm Mohammed Nabeel K
+#### 👨‍💻 .NET Developer | Full-Stack Developer | Tech Enthusiast
+#### I'm a passionate software developer with expertise in building applications across various platforms and technologies. I enjoy creating solutions that make an impact, learning new things, and improving my skills.
 
 
 ## 🌐 Socials:
