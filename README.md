@@ -12,6 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mohammed-Nabeel-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Nabeel-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Nabeel-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![LeetCode Stats](https://leetcard.jacoblin.cool/nabeelmohd?theme=dark&font=Germania%20One&ext=contest)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohammed-Nabeel-K&limit=5&theme=dark&combine_all_yearly_contributions=true)
